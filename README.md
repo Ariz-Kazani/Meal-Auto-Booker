@@ -14,6 +14,16 @@
 
    PyAutoGUI is required for bot functions, it moves the mouse and adds your information
 
+## Project Structure
+
+- **_images_** folder
+
+  stores images that are used and process by the PyAutoGUI ai to find locations on screen and to verify what is happening.
+
+- **_cafauto.py_**
+
+  the main file for running the program
+
 ## Notes
 
 The bot was designed to run in chrome, you must have bookmarks for the bot to have proper formatting.
